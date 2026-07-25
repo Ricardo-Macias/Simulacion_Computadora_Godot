@@ -21,4 +21,6 @@ En esta practica se utiliza un escenario 3D realizado anteriormente en blender i
 
 ### Demostración
 
-<video src="[https://drive.google.com/file/d/1hP0BZvd1vY-RuMPL9npC3pqrgRh61bi6/view?usp=sharing]" width="400" controls></video>   
+En el siguiente enlace se encuentra un video donde muestra el movimiento del personaje mediante las teclas de dirección dentro de una escena 3D desarrollada en Godot.
+
+[Ver demostración](https://drive.google.com/file/d/1hP0BZvd1vY-RuMPL9npC3pqrgRh61bi6/view?usp=drive_link)
